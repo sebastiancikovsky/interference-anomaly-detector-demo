@@ -19,3 +19,8 @@ pip install -r requirements.txt
 ```
 python src/run_demo.py
 ```
+## Google Colab demo
+
+Run the full interactive demonstration here:
+
+https://colab.research.google.com/github/sebastiancikovsky/interference-anomaly-detector-demo/blob/main/notebooks/colab_demo.ipynb
